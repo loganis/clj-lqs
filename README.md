@@ -2,12 +2,29 @@
 
 A Clojure client for Loganis Query Script API.
 
-## Usage with Leiningen
+## Usage
+
+### Leiningen
 
 ``` clojure
 [clj-lqs 0.1.0]
 ```
 
+### Gradle
+
+``` bash
+compile "clj-lqs:clj-lqs:0.1.0"
+```
+
+### Maven
+
+``` xml
+<dependency>
+  <groupId>clj-lqs</groupId>
+  <artifactId>clj-lqs</artifactId>
+  <version>0.1.0</version>
+</dependency>
+```
 ## Query functions
 
 * You need a token string and a query map
