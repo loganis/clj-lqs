@@ -14,6 +14,10 @@ A Clojure client for Loganis Query Script API.
 * `(lqs->map token query)` gives result as a map with :colnames and :rows as keys
 * `(lqs->csv token query)` gives result as csv string
 
+## Documentation
+
+* Visit http://docs.loganis.com
+
 ## License
 
 Copyright © 2014 Loganis - iWebMa Ltd.
