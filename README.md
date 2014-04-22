@@ -7,7 +7,7 @@ A Clojure client for Loganis Query Script API.
 ### Leiningen
 
 ``` clojure
-[clj-lqs 0.1.0]
+[clj-lqs "0.1.0"]
 ```
 
 ### Gradle
